@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import ExampleButton from './buttons/ExampleButton.vue'
+import ExampleButton from './ExampleButton.vue'
 export default {
   components: { ExampleButton }
 }
